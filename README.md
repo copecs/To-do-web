@@ -1,7 +1,7 @@
 # To-do Web
 
-This is a **To-do List Web Application** built using **React** and **TypeScript**. The app offers both logged-in and guest modes for managing your tasks.
-Project showcase : https://youtu.be/Y4Akkby76bo
+This is a **To-do List Web Application** built using **React** and **TypeScript**. The app offers both logged-in and guest modes for managing your tasks. This project was developed as a **summer project**, and a showcase video is available [here](https://youtu.be/Y4Akkby76bo).
+
 ## Features
 
 - **Reusable Components**: The application is built with modular, reusable components for efficient development and maintenance.
