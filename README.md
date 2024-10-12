@@ -23,9 +23,3 @@ Follow these instructions to run the project locally.
 - Node.js and npm installed on your system.
 - Git installed on your system.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/copecs/To-do-web.git
